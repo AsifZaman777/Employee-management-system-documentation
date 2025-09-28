@@ -12,18 +12,29 @@ A **modern ASP.NET Core MVC employee management system** built with **.NET 8**, 
 - Quick action buttons for common operations
 - Department statistics and overview
 
+<img width="1128" height="697" alt="Screenshot 2025-09-28 121735" src="https://github.com/user-attachments/assets/80a468d8-7e98-4a80-9b31-1cc8818e42a1" />
+
 ### 👥 Employee Management
-- Full **CRUD operations** (Create, Read, Update, Delete)
-- Advanced **employee search and filtering**
-- Department-wise employee listing
-- **Active/Inactive** employee status management
-- Detailed **employee profiles** with complete info
+Full **CRUD operations** (Create, Read, Update, Delete)
+<img width="1140" height="851" alt="Employees" src="https://github.com/user-attachments/assets/624183c4-1f46-4647-9644-c18c8ec2d2c0" />
+Advanced **employee search and filtering**
+<img width="1003" height="316" alt="Live search" src="https://github.com/user-attachments/assets/fa90d6d4-0e41-4840-8d9c-bdb8bf96fa25" />
+Edit panel
+<img width="1204" height="745" alt="Edit panel" src="https://github.com/user-attachments/assets/d97bd86d-40e9-4c4f-83a7-dcdb5fe12bc5" />
+Detailed **employee profiles** with complete info
+<img width="661" height="337" alt="Employee details" src="https://github.com/user-attachments/assets/c7b15f66-7ff2-477f-9a62-08e4cf235b74" />
+Delete Employee
+<img width="1155" height="505" alt="Delete" src="https://github.com/user-attachments/assets/f1a036de-17e7-4a5e-aede-13109e05fe78" />
+
 
 ### 🏢 Department Management
 - Department creation & management
 - Assign employees to departments
 - Department-wise employee organization
 - Support for **hierarchical department structure**
+<img width="1137" height="855" alt="Depertments" src="https://github.com/user-attachments/assets/ad2c5eb4-ef11-4c9b-bb06-388638449968" />
+<img width="1147" height="770" alt="Add new dept" src="https://github.com/user-attachments/assets/f1f0578e-ce98-440e-b107-a0496e60d51e" />
+
 
 ### 📈 Data Visualization & Tables
 - **DataTables.js** integration with advanced table features
@@ -130,16 +141,12 @@ A **modern ASP.NET Core MVC employee management system** built with **.NET 8**, 
 
 ---
 
-## 📷 Screenshots (Optional)
-_Add dashboard and employee management UI screenshots here for better presentation._
-
----
-
 ## 📌 Project Highlights
 - 🔹 **Clean repository pattern architecture**
 - 🔹 **Real-time analytics dashboard**
 - 🔹 **Scalable department hierarchy**
 - 🔹 **Mobile-first responsive UI**
 - 🔹 **Robust security and validations**
+
 
 ---
